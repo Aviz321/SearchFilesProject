@@ -1,0 +1,11 @@
+D:\.Net\ADO.NET\BackendProject\DbManager\bin\Debug\netcoreapp3.1\DbManager.dll.config
+D:\.Net\ADO.NET\BackendProject\DbManager\bin\Debug\netcoreapp3.1\DbManager.deps.json
+D:\.Net\ADO.NET\BackendProject\DbManager\bin\Debug\netcoreapp3.1\DbManager.dll
+D:\.Net\ADO.NET\BackendProject\DbManager\bin\Debug\netcoreapp3.1\DbManager.pdb
+D:\.Net\ADO.NET\BackendProject\DbManager\obj\Debug\netcoreapp3.1\DbManager.csproj.AssemblyReference.cache
+D:\.Net\ADO.NET\BackendProject\DbManager\obj\Debug\netcoreapp3.1\DbManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ADO.NET\BackendProject\DbManager\obj\Debug\netcoreapp3.1\DbManager.AssemblyInfoInputs.cache
+D:\.Net\ADO.NET\BackendProject\DbManager\obj\Debug\netcoreapp3.1\DbManager.AssemblyInfo.cs
+D:\.Net\ADO.NET\BackendProject\DbManager\obj\Debug\netcoreapp3.1\DbManager.csproj.CoreCompileInputs.cache
+D:\.Net\ADO.NET\BackendProject\DbManager\obj\Debug\netcoreapp3.1\DbManager.dll
+D:\.Net\ADO.NET\BackendProject\DbManager\obj\Debug\netcoreapp3.1\DbManager.pdb

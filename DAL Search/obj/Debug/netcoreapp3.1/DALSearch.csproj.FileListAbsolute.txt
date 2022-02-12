@@ -1,0 +1,10 @@
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\DALSearch.deps.json
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\DALSearch.dll
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\DALSearch.pdb
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\DALSearch.csproj.AssemblyReference.cache
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\DALSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\DALSearch.AssemblyInfoInputs.cache
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\DALSearch.AssemblyInfo.cs
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\DALSearch.csproj.CoreCompileInputs.cache
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\DALSearch.dll
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\DALSearch.pdb

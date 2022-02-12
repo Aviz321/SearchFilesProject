@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\avizm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\avizm\\.nuget\\packages"
+    ]
+  }
+}

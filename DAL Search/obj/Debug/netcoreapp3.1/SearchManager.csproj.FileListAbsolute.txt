@@ -1,0 +1,14 @@
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\SearchManager.deps.json
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\SearchManager.dll
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\SearchManager.pdb
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.csproj.AssemblyReference.cache
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.AssemblyInfoInputs.cache
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.AssemblyInfo.cs
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.csproj.CoreCompileInputs.cache
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.dll
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.pdb
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\DbManager.dll
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\DbManager.pdb
+D:\.Net\ADO.NET\BackendProject\DAL Search\bin\Debug\netcoreapp3.1\DbManager.dll.config
+D:\.Net\ADO.NET\BackendProject\DAL Search\obj\Debug\netcoreapp3.1\SearchManager.csproj.CopyComplete
